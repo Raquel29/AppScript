@@ -1,2 +1,2 @@
 # AppScript
-Funções escritas em appScript para serem reutilizadas.
+Funções escritas no appScript para serem reutilizadas.
